@@ -1,1 +1,1 @@
-# git-lesson-1
+# my-git-project
